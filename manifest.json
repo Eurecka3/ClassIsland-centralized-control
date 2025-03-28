@@ -1,0 +1,16 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "滨州经济技术开发区第二中学",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/ClassIsland-centralized-control/{id}/ClassPlans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/ClassIsland-centralized-control/TimeLayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/ClassIsland-centralized-control/{id}/Subjects.json",
+        "Version": 1
+    }
+}
